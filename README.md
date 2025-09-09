@@ -35,6 +35,27 @@ By visualizing data on **top-selling genres, platforms, and publishers**, this a
 
 ---
 
+## 📊 Visualizations  
+
+### 🎮 Top-Selling Genres  
+Action, Sports, and Shooter dominate global sales.  
+![Top Genres](images/genre_sales.png)  
+
+### 🕹️ Most Successful Platforms  
+PlayStation 2 leads all platforms in global sales.  
+![Top Platforms](images/platform_sales.png)  
+
+### 📈 Global Sales Trend (1980–2020)  
+Sales peaked around 2008 before declining due to the rise of digital distribution.  
+![Sales Over Time](images/sales_trend.png)  
+
+### 🏆 Leading Publishers  
+Nintendo leads in global revenue, driven by iconic franchises.  
+![Top Publishers](images/publisher_sales.png)  
+
+---
+
+
 ## 📊 The Dataset  
 
 - **Source:** Video Game Sales with Ratings (Kaggle)  
