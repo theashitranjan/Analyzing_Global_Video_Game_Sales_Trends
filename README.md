@@ -47,7 +47,7 @@ PlayStation 2 leads all platforms in global sales.
 
 ### 📈 Global Sales Trend (1980–2020)  
 Sales peaked around 2008 before declining due to the rise of digital distribution.  
-![Sales Over Time](images/sales_trend.png)  
+![Sales Over Time](images/sales_trends.png)  
 
 ### 🏆 Leading Publishers  
 Nintendo leads in global revenue, driven by iconic franchises.  
@@ -77,7 +77,7 @@ Nintendo leads in global revenue, driven by iconic franchises.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/[Your-GitHub-Username]/video-game-sales-analysis.git
+   git clone https://github.com/theashitranjan/video-game-sales-analysis.git
    cd video-game-sales-analysis
    ```
 
@@ -102,8 +102,9 @@ Nintendo leads in global revenue, driven by iconic franchises.
 ```
 video-game-sales-analysis/
 │
-├── Project_3.ipynb      # Main Jupyter Notebook with analysis & visualizations
-├── presentation.html    # Web-based presentation of findings
+├── analyzing_global_video_game_sales_trend.ipynb    # Main Jupyter Notebook with analysis & visualization
+├── images               # Sales graph
+├── presentation.pdf     # Presentation of findings
 ├── vgsales.csv          # Raw dataset
 ├── README.md            # Project documentation (this file)
 └── LICENSE              # License file (MIT)
