@@ -92,8 +92,8 @@ Nintendo leads in global revenue, driven by iconic franchises.
    ```
 
 4. **Open the notebook**  
-   - Run `Project_3.ipynb` to explore the analysis.  
-   - Open `presentation.html` in your browser to view the project presentation.  
+   - Run `analyzing_global_video_game_sales_trend.ipynb` to explore the analysis.  
+   - Open `presentation.pdf` in your browser to view the project presentation.  
 
 ---
 
